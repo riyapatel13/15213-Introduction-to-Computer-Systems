@@ -31,3 +31,5 @@ __7. L6 - Shell Lab__
   > This lab involved creating a shell program with job control. I created an interactive command-line interpreter that reads the prompt from the user and and executes the command of the corresponding prompt. The builtin commands for this shell include: quit, jobs, bg job, and fg job. This shell can run programs both in the foreground and background, as well as handle SIGINT and SIGSTP signals, reap all of its zombie children, and support I/O redirection.
 
 __8. L7 - Proxy Lab__
+
+  > In this lab, we created a web proxy server with concurrent threads and cache storage. This web proxy handles HTTP GET requests from the client and can also handle multiple concurrent requests - so, while the proxy is waiting for a response from a web server, it can begin to work on another pending request from another client. This is accomplished using threads. The proxy also uses a cache to store recently used web objects (implemented as an LRU cache with a singly-linked list). The server has a mutual exclusion lock to control access to the cache to ensure that the cache is thread-safe.
