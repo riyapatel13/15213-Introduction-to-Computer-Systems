@@ -1,6 +1,6 @@
 # 15213-Introduction-to-Computer-Systems
 
-The following contains work from the course 15-213 Introduction to Computer Systems. This course contained 8 assignments including:
+The following contains work from the course [15-213 Introduction to Computer Systems](http://www.cs.cmu.edu/afs/cs/academic/class/15213-s20/www/index.html). This course contained 8 assignments including:
 
 __1. C Programming Lab__
 
