@@ -28,4 +28,6 @@ __6. L5 - Malloc Lab__
 
 __7. L6 - Shell Lab__
 
+  > This lab involved creating a shell program with job control. I created an interactive command-line interpreter that reads the prompt from the user and and executes the command of the corresponding prompt. The builtin commands for this shell include: quit, jobs, bg job, and fg job. This shell can run programs both in the foreground and background, as well as handle SIGINT and SIGSTP signals, reap all of its zombie children, and support I/O redirection.
+
 __8. L7 - Proxy Lab__
