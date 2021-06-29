@@ -1,0 +1,6 @@
+[submodule "15213-assignments"]
+	path = 15213-assignments
+	url = https://github.com/riyapatel13/15213-assignments.git
+[submodule "linux-bootcamp"]
+	path = linux-bootcamp
+	url = https://github.com/riyapatel13/linux-bootcamp.git
