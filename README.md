@@ -8,6 +8,8 @@ __1. L0 - C Programming Lab__
   
 __2. L1 - Data Lab__
 
+  > This lab involved solving several puzzles that required bit manipulations of integers and floating point numbers.
+
 __3. L2 - Bomb Lab__
 
 __4. L3 - Attack Lab__
