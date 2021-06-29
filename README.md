@@ -4,7 +4,7 @@ The following contains work from the course 15-213 Introduction to Computer Syst
 
 __1. L0 - C Programming Lab__
 
-  >>This lab consisted of implementing a deque as a singly-linked list with additional features to support efficient operations.
+  > This lab consisted of implementing a deque as a singly-linked list with additional features to support efficient operations.
   
 __2. L1 - Data Lab__
 
