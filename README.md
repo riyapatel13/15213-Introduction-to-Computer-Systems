@@ -12,6 +12,8 @@ __2. L1 - Data Lab__
 
 __3. L2 - Bomb Lab__
 
+  > This lab involved "defusing" a binary executable bomb that required reading the assembly code of the bomb and determining which inputs would result in the correct output.
+
 __4. L3 - Attack Lab__
 
 __5. L4 - Cache Lab__
